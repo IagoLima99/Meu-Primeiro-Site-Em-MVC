@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tdbQh/OEACXLYPgjC2zepvy/iZuFgjjAXkaWPCVa1O1U5HKey+AWkDJ/gmgE6OacOLZKzdfIaZO4LHHB12dfkQ==",
+  "dgSpecHash": "WuQaXrCm60y6rSf8G+q9BQ+pQVsgd/iRIP9Nd9m5guxAx69z7HfobB875b9UYv+NMh4NdKS/sQE+FnYJemiYZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Iago L\\source\\repos\\ControllerContato\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+  "projectFilePath": "C:\\Users\\Iago L\\source\\repos\\MeuSiteEmMVC\\ControleDeContatos\\ControleDeContatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Iago L\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.11\\microsoft.aspnetcore.mvc.razor.extensions.5.0.11.nupkg.sha512",
     "C:\\Users\\Iago L\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.11\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.11.nupkg.sha512",

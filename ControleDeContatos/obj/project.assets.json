@@ -743,11 +743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Iago L\\source\\repos\\ControllerContato\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+      "projectUniqueName": "C:\\Users\\Iago L\\source\\repos\\MeuSiteEmMVC\\ControleDeContatos\\ControleDeContatos.csproj",
       "projectName": "ControleDeContatos",
-      "projectPath": "C:\\Users\\Iago L\\source\\repos\\ControllerContato\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+      "projectPath": "C:\\Users\\Iago L\\source\\repos\\MeuSiteEmMVC\\ControleDeContatos\\ControleDeContatos.csproj",
       "packagesPath": "C:\\Users\\Iago L\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Iago L\\source\\repos\\ControllerContato\\ControleDeContatos\\ControleDeContatos\\obj\\",
+      "outputPath": "C:\\Users\\Iago L\\source\\repos\\MeuSiteEmMVC\\ControleDeContatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
